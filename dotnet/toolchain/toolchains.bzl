@@ -107,6 +107,21 @@ CORE_SDK_REPOSITORIES = {
             "fc695c2c797da757251ce643d408e99e6325563bf08d46f1bf8d45a8ebc1aac6",
         ),
     },
+    "v2.2.402": {
+        "core_windows_amd64": (
+            "https://download.visualstudio.microsoft.com/download/pr/40c1dd82-671c-4974-919d-ac8a61ef5a91/49ab67c335878f4a5bdd84e14c76708f/dotnet-sdk-2.2.402-win-x64.exe",
+            "64ca5310bf7303ff4b509ad1136e95fca7849a4f712a7ec65075203ccc60632d",
+        ),
+        "core_linux_amd64": (
+            "https://download.visualstudio.microsoft.com/download/pr/46411df1-f625-45c8-b5e7-08ab736d3daa/0fbc446088b471b0a483f42eb3cbf7a2/dotnet-sdk-2.2.402-linux-x64.tar.gz",
+            "4dafe1e6e49c6ddeb658bd702ed7724c4eb393ed719e2d6f557536f17917579a",
+        ),
+        "core_darwin_amd64": (
+            "https://download.visualstudio.microsoft.com/download/pr/2079de3a-714b-4fa5-840f-70e898b393ef/d631b5018560873ac350d692290881db/dotnet-sdk-2.2.402-osx-x64.tar.gz",
+            "adb0aa3a809e097882f9a139af8a7fa9d8c7898ad5249f6cec376f843433c79f",
+        ),
+    },
+
 }
 
 NET_ROSLYN_REPOSITORIES = {
